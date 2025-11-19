@@ -5,6 +5,7 @@ git add
 git commit
 git pull
 git push
+git reset
 
 Einer der beiden Pushes war schnell, dadurch konnte der ander push nicht gepusht werden und somit gibt es nur eine der beiden Änderungen.
 
